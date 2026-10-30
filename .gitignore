@@ -1,0 +1,22 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.out
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
