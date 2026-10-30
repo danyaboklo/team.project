@@ -9,7 +9,8 @@ int main() {
     int choice = -1;
 
     do {
-        std::cout << "\n========== TEAM PROJECT PC1 ==========\n";
+
+        std::cout << "\n========== TEAM PROJECT PC1 + PC2 ==========\n";
         std::cout << "1. Расчеты квадрата\n";
         std::cout << "2. Расчеты круга\n";
         std::cout << "0. Выход\n";
